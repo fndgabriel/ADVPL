@@ -35,5 +35,5 @@ Return
 Static Function recriar(cAlias)
 
     DBSelectArea(cAlias)
-    Alert("Tabala Criada!")
+    Alert("Tabela Criada!")
 Return 
