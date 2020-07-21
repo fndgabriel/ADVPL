@@ -1,7 +1,7 @@
 #INCLUDE "PROTHEUS.CH"
 
 USER FUNCTION TESTE()
-    LOCAL cAlias := "SF2"
+    LOCAL cAlias := "SF4"
     LOCAL cFil := cFilant 
 
     recriar(cAlias)
